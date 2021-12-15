@@ -1,0 +1,13 @@
+name: python-advanced-eval
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - setuptools
+  - black
+  - numpy
+  - matplotlib
+  - pillow
+  - jupyter
+  - nbconvert
+  - jupytext
